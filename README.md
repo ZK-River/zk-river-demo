@@ -1,2 +1,1 @@
-# zk-river-demo
-Zero-Knowledge Proof demo
+# 🌊 zk-river-demo
